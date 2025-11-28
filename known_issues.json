@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Decay issues",
+    "description": "Currently on wipe, possibly related to multi-tc bases",
+    "status": "Ongoing"
+  },
+  {
+    "title": "Teams do not transfer between realms",
+    "description": "Teammates in realm 1 not showing in realm 2 vise verser",
+    "status": "Ongoing"
+  },
+  {
+    "title": "Gear slots and attachments",
+    "description": "Gear slots and attachments can wipe between transfers",
+    "status": "Investigating"
+  }
+]
