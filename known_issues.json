@@ -7,12 +7,18 @@
   {
     "title": "Test 2",
     "description": "This is test 2",
-    "status": "Ongoing"
+    "status": "Investigating"
   },
   {
     "title": "Test 3",
     "description": "This is test 3",
-    "status": "Investigating"
+    "status": "Major"
+  },
+  {
+    "title": "Test 4",
+    "description": "This is test 4",
+    "status": "fixed"
   }
 ]
+
 
